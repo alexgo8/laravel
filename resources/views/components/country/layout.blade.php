@@ -5,7 +5,9 @@
   <title>{{$titel}}</title>
 </head>
 <body>
+  <h1>Города</h1>
   <h2>{{$papers}}</h2>
+
   
 </body>
 </html>
